@@ -1,2 +1,6 @@
 # demo-web
-i will create demo page project
+i learn in complete full stack web development.
+# teacher 
+sharda khapra
+# student
+Muhammad Saqalin
